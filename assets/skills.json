@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated. Honest, not maxed — a radar where every axis is 90 is a circle and communicates nothing.",
+  "axes": [
+    { "label": "Python",        "value": 90 },
+    { "label": "RAG / LangChain","value": 82 },
+    { "label": "PySpark",       "value": 76 },
+    { "label": "LLM Fine-Tune","value": 75 },
+    { "label": "Computer Vis",  "value": 72 },
+    { "label": "FastAPI",       "value": 70 },
+    { "label": "SQL / Data Eng","value": 74 }
+  ]
+}

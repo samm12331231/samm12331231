@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run.",
+  "projects": [
+    {
+      "repo": "BullRun",
+      "description": "Multi-agent options trading system. Scout, Quant, Risk Engine and CIO agents hand off decisions through 12 deterministic risk gates with a SHA-256 audit trail."
+    },
+    {
+      "repo": "uae-expat-navigator",
+      "description": "A RAG assistant over 27 UAE government documents. Sub-second, citation-grounded answers via ChromaDB and Groq's Llama 3.1, served through FastAPI."
+    },
+    {
+      "repo": "ecovision",
+      "description": "A computer vision platform combining five CV techniques: YOLOv8 running at 10+ FPS alongside SegFormer segmentation, wrapped in FastAPI and Streamlit."
+    },
+    {
+      "repo": "heatwatch",
+      "description": "An autonomous heat-safety agent that estimates WBGT and rethinks outdoor work schedules to cut heat-related costs."
+    }
+  ]
+}
